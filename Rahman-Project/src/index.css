@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Nav  */
+/* Add your other styles */
+
+.nav-link {
+  color: black;
+  background-color: white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 0.25rem;
+}
+
+.nav-link.active {
+  background-color: rgb(223, 29, 29);
+  color: white;
+}
+
+/* Add your other styles */

@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/pRRpyXn/replicate-prediction-wto7yyrbiohn7vprzkrhtsakti-1.jpg",
+      "title": "AR",
+      "subtitle": "Software Engineer - Graduate",
+      "age": "25 years, 5ft 5 in",
+      "location": "Dhaka, Bangladesh"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/xyz123/another-image.jpg",
+      "title": "VR",
+      "subtitle": "Web Developer",
+      "age": "28 years, 6ft 0 in",
+      "location": "New York, USA"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/abc456/yet-another-image.jpg",
+      "title": "MR",
+      "subtitle": "Data Scientist",
+      "age": "30 years, 5ft 8 in",
+      "location": "Tokyo, Japan"
+    },
+   
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/def789/another-image.jpg",
+      "title": "AI",
+      "subtitle": "UX Designer",
+      "age": "27 years, 5ft 7 in",
+      "location": "London, UK"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/ghi012/yet-another-image.jpg",
+      "title": "Robotics",
+      "subtitle": "Software Developer",
+      "age": "29 years, 6ft 2 in",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/jkl345/another-image.jpg",
+      "title": "Automation",
+      "subtitle": "Machine Learning Engineer",
+      "age": "32 years, 5ft 10 in",
+      "location": "Paris, France"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/mno678/yet-another-image.jpg",
+      "title": "Blockchain",
+      "subtitle": "Cryptocurrency Analyst",
+      "age": "26 years, 5ft 6 in",
+      "location": "Seoul, South Korea"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/pqr901/another-image.jpg",
+      "title": "Cybersecurity",
+      "subtitle": "Security Consultant",
+      "age": "31 years, 6ft 1 in",
+      "location": "Sydney, Australia"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/stu234/yet-another-image.jpg",
+      "title": "Big Data",
+      "subtitle": "Data Engineer",
+      "age": "33 years, 5ft 9 in",
+      "location": "Mumbai, India"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/vwx567/another-image.jpg",
+      "title": "Cloud Computing",
+      "subtitle": "Cloud Architect",
+      "age": "28 years, 5ft 11 in",
+      "location": "Toronto, Canada"
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/yzabc8/yet-another-image.jpg",
+      "title": "Nanotechnology",
+      "subtitle": "Research Scientist",
+      "age": "30 years, 5ft 7 in",
+      "location": "Beijing, China"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/defgh9/another-image.jpg",
+      "title": "Quantum Computing",
+      "subtitle": "Quantum Physicist",
+      "age": "29 years, 6ft 0 in",
+      "location": "Moscow, Russia"
+    }
+  ]
+  
